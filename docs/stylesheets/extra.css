@@ -1,0 +1,4 @@
+.md-typeset__table tbody tr td:first-child {
+  width: 10em;
+  font-weight: bold;
+}
