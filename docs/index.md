@@ -26,3 +26,5 @@ Registration opens on **1 September 2026**, and is completely free thanks to our
 ![DARE UK](images/dare_uk_logo_positive_rgb.svg){ width="500" }
 
 ![Research Data Scotland](images/research-data-scotland-logo-dark.svg){ width="300" }
+
+![Aridhia](images/aridhia-logo.svg){ width="200" }
