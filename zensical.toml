@@ -11,7 +11,7 @@ repo_name = "tre-community/conference"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Home" = "index.md" },
+  { "Home" = "2026/index.md" },
   { "Schedule" = "2026/schedule.md" },
   { "Location" = "2026/location.md" },
   { "Speakers" = "2026/speakers.md" },
