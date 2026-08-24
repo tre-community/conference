@@ -9,7 +9,7 @@ hide:
 
     This schedule is subject to change
 
-## Monday 16 September 2026
+## Monday 16 November 2026
 
 The main program starts at 13:00
 
@@ -24,7 +24,7 @@ The main program starts at 13:00
 | 16:00 - 17:00 | Lightning Talks/Roundup of the day                                             |                                                                                                         |
 | 17:30 - 19:00 | Drinks & Canapes Reception - EFI                                               |                                                                                                         |
 
-## Tuesday 17 September 2026
+## Tuesday 17 November 2026
 
 |               |                                                                                     |                                                                     |
 | :------------ | :---------------------------------------------------------------------------------- | :------------------------------------------------------------------ |
@@ -40,7 +40,7 @@ The main program starts at 13:00
 | 16:45 - 17:15 | Day 2 closing - TBD                                                                 |                                                                     |
 | 18:30 - 20:00 | Sponsored Dinner - External venue                                                   |                                                                     |
 
-## Wednesday 18 September 2026
+## Wednesday 18 November 2026
 
 |               |                                                          |                                                                                                                                     |                                         |
 | :------------ | :------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
