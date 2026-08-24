@@ -2,9 +2,9 @@
 icon: lucide/rocket
 ---
 
-# TRE Community Conference 16-18 November 2026, Edinburgh
+# TRE Communities Conference 16-18 November 2026, Edinburgh
 
-The **TRE Community Conference** will take place in Edinburgh, **Monday 16 - Wednesday 18 November 2026**.
+The **TRE Communities Conference** will take place in Edinburgh, **Monday 16 - Wednesday 18 November 2026**.
 
 It brings together funders, leaders, practitioners, researchers, technologists, policy makers, public members and innovators from across the Trusted Research Environments ecosystem.
 
