@@ -141,3 +141,9 @@ pymdownx.tasklist = {
   custom_checkbox = true
 }
 pymdownx.tilde = {}
+zensical.extensions.macros = {
+  module_name = "macros",
+  on_error_fail = true,
+  on_undefined = "strict",
+  include_yaml = ["docs/2026/schedule.yml"]
+}

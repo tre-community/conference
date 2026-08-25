@@ -1,0 +1,157 @@
+days:
+  - date: "2026-11-16"
+    title: "Monday 16 November 2026"
+    note: "The main program starts at 13:00"
+    tracks:
+      - "Main Hall / Track 1"
+      - "Workshop / Track 2"
+    slots:
+      - time: "09:00 - 12:00"
+        sessions:
+          - title: "Registration (open all morning)"
+            room: "Ground floor Foyer"
+            description: "Pick up your attendee badge and conference pack at the reception desk on the ground floor."
+          - title: "Satellite Event: Skills Summit - Data Curation"
+            room: "Workshop Room 1.01"
+            description: |
+              A hands-on deep dive into best practices for data curation, metadata pipelines,
+              and professional development for TRE data stewards.
+
+              **Topics covered:**
+
+              * Standardising dataset dictionaries and schemas
+              * Automated metadata validation tooling
+              * Safe access governance and reproducibility
+            speakers:
+              - name: "Dr. Skill"
+                affiliation: "University of Skills"
+      - time: "12:00 - 13:00"
+        type: "break"
+        sessions:
+          - title: "Lunch"
+      - time: "13:00 - 13:15"
+        type: "plenary"
+        sessions:
+          - title: "Welcome"
+      - time: "13:15 - 14:15"
+        type: "plenary"
+        sessions:
+          - title: "Plenary: DEA, UK Stats Authority and Accreditation of TREs"
+            description: "Overview of the Digital Economy Act (DEA) framework, UK Statistics Authority oversight, and standardising accreditation criteria across UK Trusted Research Environments."
+      - time: "14:15 - 14:30"
+        type: "break"
+        sessions:
+          - title: "Refreshments"
+      - time: "14:30 - 16:00"
+        sessions:
+          - title: "Non-Technical Problems: Overcoming the Practical Challenges of Data Federation"
+            description: "Examining organizational, legal, and cross-institutional governance hurdles in federated TRE ecosystems."
+          - title: "Governance in Practice for Sensitive Data Access: Lessons from Safe Text and Synthetic Data Communities"
+            description: "Practical lessons and case studies on output checking, automated disclosure control, and synthetic data pipelines."
+      - time: "16:00 - 17:00"
+        type: "plenary"
+        sessions:
+          - title: "Lightning Talks / Roundup of the day"
+      - time: "17:30 - 19:00"
+        type: "social"
+        sessions:
+          - title: "Drinks & Canapes Reception"
+            room: "EFI"
+
+  - date: "2026-11-17"
+    title: "Tuesday 17 November 2026"
+    tracks:
+      - "Main Hall / Track 1"
+      - "Workshop / Track 2"
+    slots:
+      - time: "09:00 - 09:30"
+        type: "break"
+        sessions:
+          - title: "Arrival & Breakfast"
+      - time: "09:30 - 09:45"
+        type: "plenary"
+        sessions:
+          - title: "Welcome back & Roundup of Day 1"
+      - time: "09:45 - 10:45"
+        type: "plenary"
+        sessions:
+          - title: "Plenary: DARE & TREvolution"
+            description: "Insights and progress updates from DARE UK and the evolving landscape of TRE infrastructure."
+      - time: "10:45 - 11:00"
+        type: "break"
+        sessions:
+          - title: "Refreshments"
+      - time: "11:00 - 12:30"
+        sessions:
+          - title: "How do we FAIRify data that can't be shared? Metadata approaches for TREs"
+            description: "Approaches and frameworks for making sensitive and restricted data Findable, Accessible, Interoperable, and Reusable through rich metadata catalogs."
+          - title: "Writing, Agreeing and Living by a Rulebook in a Federated Ecosystem"
+            description: "Developing consistent operational standards, policy harmonisation, and participant agreements across federated nodes."
+      - time: "12:30 - 13:30"
+        type: "break"
+        sessions:
+          - title: "Lunch"
+            room: "Ground floor"
+      - time: "13:30 - 15:00"
+        type: "plenary"
+        sessions:
+          - title: "Plenary: Earning Trust, Not Assuming It: Commercialisation and public acceptability"
+            description: "Engaging public and patient groups, transparency in public-private partnerships, and maintaining trustworthy data governance."
+      - time: "15:00 - 15:15"
+        type: "break"
+        sessions:
+          - title: "Refreshments"
+            room: "Ground floor"
+      - time: "15:15 - 16:45"
+        sessions:
+          - title: "Harmonising policies on decision making on what can and cannot be used in a TRE"
+            description: "Evaluating risk models, access criteria, and harmonised decision pipelines for diverse data sources."
+          - title: "Shapes and Patterns of Federation"
+            description: "Architectural patterns, query federation models, and distributed computation frameworks across TRE networks."
+      - time: "16:45 - 17:15"
+        type: "plenary"
+        sessions:
+          - title: "Day 2 closing - TBD"
+      - time: "18:30 - 20:00"
+        type: "social"
+        sessions:
+          - title: "Sponsored Dinner"
+            room: "External venue"
+
+  - date: "2026-11-18"
+    title: "Wednesday 18 November 2026"
+    tracks:
+      - "Track 1"
+      - "Track 2"
+      - "Track 3"
+    slots:
+      - time: "09:00 - 09:30"
+        type: "break"
+        sessions:
+          - title: "Arrival & Breakfast"
+      - time: "09:30 - 11:00"
+        sessions:
+          - title: "International Access - principles of safe access"
+            description: "Principles, governance requirements, and safe computing boundaries for enabling cross-border research on sensitive data."
+          - title: "Building Capacity and Driving Impact in Administrative Data Research: Practical Lessons from Coordinated Support and Infrastructure"
+            description: "Lessons learned from building support teams, data linkage infrastructure, and stakeholder engagement in administrative data."
+          - title: "Trusted Execution Environments for TREs"
+            description: "Hardware-enforced confidential computing, secure enclaves, and verification techniques for sensitive analytics."
+      - time: "11:00 - 12:30"
+        type: "plenary"
+        sessions:
+          - title: "Plenary: Responsible AI in Trusted Research Environments"
+            description: "Governance, auditing, and safety considerations when integrating large language models and machine learning pipelines into secure data environments."
+      - time: "12:30 - 12:45"
+        type: "plenary"
+        sessions:
+          - title: "Closing Remarks"
+      - time: "12:45 - 13:30"
+        type: "break"
+        sessions:
+          - title: "Lunch"
+      - time: "13:30 - 17:00"
+        type: "satellite"
+        sessions:
+          - title: "Satellite Event: SSHN Analysts: aligning best practice across Scotland's Safe Havens"
+            description: "Collaborative workshop focusing on analyst workflows, standardising SOPs, and cross-haven interoperability in Scotland."
