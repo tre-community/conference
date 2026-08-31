@@ -23,8 +23,8 @@ Location: [DoubleTree by Hilton Edinburgh City Centre](https://www.google.com/ma
 
 ## Sponsors
 
-![DARE UK](images/dare_uk_logo_positive_rgb.svg){ width="500" }
+[![DARE UK](images/dare_uk_logo_positive_rgb.svg){ width="500" }](https://dareuk.org.uk/)
 
-![Research Data Scotland](images/research-data-scotland-logo-dark.svg){ width="300" }
+[![Research Data Scotland](images/research-data-scotland-logo-dark.svg){ width="300" }](https://www.researchdata.scot/)
 
-![Aridhia](images/aridhia-logo.svg){ width="200" }
+[![Aridhia](images/aridhia-logo.svg){ width="200" }](https://www.aridhia.com/)
