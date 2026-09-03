@@ -25,10 +25,10 @@ Location: [DoubleTree by Hilton Edinburgh City Centre](https://www.google.com/ma
 
 [![DARE UK](images/dare_uk_logo_positive_rgb.svg){ width="500" }](https://dareuk.org.uk/)
 
-[![AWS](images/amazon_aws-ar21.svg){ width="300" }](https://aws.amazon.com/)
+[![AWS](images/amazon_aws-ar21.svg){ width="350" }](https://aws.amazon.com/)
 
 [![Research Data Scotland](images/research-data-scotland-logo-dark.svg){ width="300" }](https://www.researchdata.scot/)
 
 [![Aridhia](images/aridhia-logo.svg){ width="200" }](https://www.aridhia.com/)
 
-[![UK Data Service](images/ukds-logo-col-grey.png){ width="200" }](https://ukdataservice.ac.uk/)
+[![UK Data Service](images/ukds-logo-col-grey.png){ width="300" }](https://ukdataservice.ac.uk/)
