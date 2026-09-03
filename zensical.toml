@@ -14,7 +14,7 @@ nav = [
   { "Home" = "2026/index.md" },
   { "Schedule" = "2026/schedule.md" },
   { "Location" = "2026/location.md" },
-  { "Speakers" = "2026/speakers.md" },
+#  { "Speakers" = "2026/speakers.md" },
 ]
 
 extra_css = ["stylesheets/extra.css"]
