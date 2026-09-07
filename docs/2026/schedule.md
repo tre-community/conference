@@ -2,7 +2,7 @@
 icon: lucide/calendar-clock
 title: Schedule
 hide:
-  - navigation
+    - navigation
 ---
 
 !!! note
