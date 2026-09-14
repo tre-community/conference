@@ -160,7 +160,7 @@ days:
       - time: 13:30 - 15:00
         type: plenary
         sessions:
-          - title: "Plenary: Earning Trust, Not Assuming It (PIE session): Commercialisation and public acceptability"
+          - title: "Plenary: Earning Trust, Not Assuming It: Commercialisation and public acceptability"
             description: |
               This session will explore how to support trustworthy commercial access to Trusted Research Environments as part of research projects for the public good. You will hear about current access models, governance and stakeholder expectations, and discuss how data protection, intellectual property and public benefit can be safeguarded while enabling impactful research that improves lives.
 
