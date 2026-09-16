@@ -261,7 +261,9 @@ days:
         type: plenary
         sessions:
           - title: "Plenary: Responsible AI in Trusted Research Environments"
-            # description: |
+            description: |
+              AI models and workflows trained or used on sensitive data may leak that data. This session explores the challenges related to training AI on sensitive data and running generative AI inference securely on such data. The session will include short talks and discussions, exploring existing community solutions, and specific capabilities currently under development by the session co-organisers: Data Exploitation Platform by the EGI-led [RI-SCALE project](https://www.riscale.eu/), and [trusted AI assistants for TREs](https://www.aridhia.com/secure-ai-in-trusted-research-environments/) by Aridhia.
+            room: Orchardfield
             # speakers:
             #   - name:
             #     affiliation:
