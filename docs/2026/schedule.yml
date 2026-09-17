@@ -14,9 +14,9 @@ days:
           - title: "Satellite Event: Skills Summit - Data Curation"
             description: ""
             room: Sky Suite
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Hollydawn Murray
+                affiliation: Health Data Research UK
       - time: 12:00 - 13:00
         type: break
         sessions:
@@ -66,18 +66,26 @@ days:
                 - People funding, supporting, or commissioning federated research
                 - People conducting research that relies on cross-TRE data access
             room: Orchardfield
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Jonaa Eva
+                affiliation: University of Nottingham / Health Data Research UK
+              - name: Ross Stiven
+                affiliation: Aridhia
+              - name: Andy Payne
+                affiliation: NHS England Data for R&D
           - title: "Governance in Practice for Sensitive Data Access: Lessons from Safe Text and Synthetic Data Communities"
             description: |
               This session explores how TREs are evolving to support next-generation sensitive data and AI research. Drawing on experiences from the SAFETEXT and Synthetic Data communities, and Next-Gen Catalyst projects (STAR-TRE, FORTRESS-TeHR), we examine how governance balances privacy, security, utility, and public trust across real-world and synthetic structured and free-text data.
 
               Audience: This session will include introductory talks and both expert panel and participant group discussions. We expect audience from the public and across TRE roles, including TRE governance and project support, as well as TRE infrastructure and service development.
             room: Sky Suite
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Goran Nenadic
+                affiliation: University of Manchester
+              - name: Arlene Casey
+                affiliation: University of Edinbrugh
+              - name: Lewis Hotchkiss
+                affiliation: UK Biobank
       - time: 16:00 - 17:00
         type: plenary
         sessions:
@@ -119,9 +127,11 @@ days:
                 - Researchers and data users
                 - Funders, programme leads and strategic decision-makers
             room: Orchardfield
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Najmeh Modarres
+                affiliation: DARE UK
+              - name: Gordon Milligan
+                affiliation: University of Dundee
       - time: 10:45 - 11:00
         type: break
         sessions:
@@ -140,18 +150,24 @@ days:
                 - People funding, supporting, or commissioning federated research
                 - People conducting research that relies on cross-TRE data access
             room: Orchardfield
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Jim Madge
+                affiliation: The Alan Turing Institute
+              - name: Jonaa Eva
+                affiliation: University of Nottingham / Health Data Research UK
           - title: Writing, Agreeing and Living by a Rulebook in a Federated Ecosystem
             description: |
               Federated research relies on trust, shared governance and clear ways of working. Join three Trusted Research Environment research projects as they briefly showcase their work before facilitating an interactive workshop where participants will help co-create the foundations of a practical rulebook for collaboration, information governance and trusted data sharing.
 
               Expected audience: Everyone welcome
             room: Sky Suite
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Damon Strange
+                affiliation: University of Oxford
+              - name: Felix Ritchie
+                affiliation: UWE Bristol
+              - name: Rob Baxter
+                affiliation: DARE UK
       - time: 12:30 - 13:30
         type: break
         sessions:
@@ -166,9 +182,13 @@ days:
 
               Audience: Anybody with an interest in trustworthy commercial access to TREs. This includes but is not limited to data custodians, industry representatives, information governance professionals, public engagement professionals and members of the public.
             room: Orchardfield
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Doreen Tembo
+                affiliation: Health Data Research  UK / PEDRI
+              - name: Adam Bradley
+                affiliation: DARE UK
+              - name: Samaira Khan
+                affiliation: PEDRI
       - time: 15:00 - 15:15
         type: break
         sessions:
@@ -192,18 +212,26 @@ days:
 
               Audience: Public, TRE infrastructure development, TRE service managers, TRE project support, governance, data matching and linkage providers.
             room: Orchardfield
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Jano van Hemert
+                affiliation: University of Edinburgh
+              - name: Mike Edwards
+                affiliation: Swansea University
+              - name: Judith Fisher
+                affiliation: University of Dundee
           - title: How do we FAIRify data that can't be shared? Metadata approaches for TREs
             description: |
               In this session, presenters will share tools for gathering, discovering and sharing metadata in the context of TREs through the MetadataWorks platform and RO-Crates. There will be an opportunity for group discussion about the tools and about other aspects of TRE metadata such as quality and impact.
 
               Audience: TRE infrastructure support/development, TRE service managers, analysts
             room: Sky Suite
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Eli Chadwick
+                affiliation: University of Manchester
+              - name: Siân Robson
+                affiliation: Research Data Scotland
+              - name: Chris Barrett
+                affiliation: Metadataworks
       - time: 16:45 - 17:15
         type: plenary
         sessions:
@@ -236,26 +264,30 @@ days:
 
               Audience: governance professionals,TRE providers and service managers, TRE project support
             room: Orchardfield
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Kate O'Sullivan
+                affiliation: Research Data Scotland
+              - name: Felix Ritchie
+                affiliation: UWE Bristol
+              - name: Amy Tilbrook
+                affiliation: Health Data Research UK
           - title: "Building Capacity and Driving Impact in Administrative Data Research: Practical Lessons from Coordinated Support and Infrastructure"
             description: |
               Trusted Research Environments and administrative data create major opportunities for policy-relevant research, yet many researchers face challenges accessing data, developing proposals, and achieving impact. Drawing on ADR UK's ecosystem, the session will combine insights from support models with co-design activities to identify approaches for enhancing research capacity and impact.
 
               Audience: TRE providers and data infrastructure teams; funders and programme managers; research development professionals; researchers from all career stages using administrative data.
             room: Sky Suite
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Bogusia Wojciechowska
+                affiliation: ESRC - ADR UK
           - title: TEEs for TREs
             description: |
               Trusted Execution Environments (TEEs) keep processes confidential by encrypting data while in use,removing the need to trust the host computer.
 
               Through a mix of presentation and discussion, we will explore when TEEs can add value to TREs, and how they can open the door to new models of TREs.
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Jim Madge
+                affiliation: The Alan Turing Institute
             room: Hawthorn
       - time: 11:00 - 12:30
         type: plenary
@@ -265,12 +297,12 @@ days:
               AI models and workflows trained or used on sensitive data may leak that data. This session explores the challenges related to training AI on sensitive data and running generative AI inference securely on such data. The session will include short talks and discussions, exploring existing community solutions, and specific capabilities currently under development by the session co-organisers: Data Exploitation Platform by the EGI-led [RI-SCALE project](https://www.riscale.eu/), and [trusted AI assistants for TREs](https://www.aridhia.com/secure-ai-in-trusted-research-environments/) by Aridhia.
             room: Orchardfield
             speakers:
-              - name: Kim Carter
-                affiliation: Aridhia
               - name: Scott Russell
                 affiliation: Aridhia
               - name: Gergely Sipos
                 affiliation: EGI
+              - name: Kim Carter
+                affiliation: Aridhia
       - time: 12:30 - 12:45
         type: plenary
         sessions:
@@ -284,6 +316,6 @@ days:
         type: satellite
         sessions:
           - title: "Satellite Event: SSHN Analysts: aligning best practice across Scotland's Safe Havens"
-            # speakers:
-            #   - name:
-            #     affiliation:
+            speakers:
+              - name: Eilidh Guthrie
+                affiliation: Research Data Scotland
