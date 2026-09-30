@@ -32,3 +32,5 @@ Location: [DoubleTree by Hilton Edinburgh City Centre](https://www.google.com/ma
 [![Aridhia](images/aridhia-logo.svg){ width="200" }](https://www.aridhia.com/)
 
 [![UK Data Service](images/ukds-logo-col-grey.png){ width="300" }](https://ukdataservice.ac.uk/)
+
+[![Metadataworks](images/metadataworks_logo_text.webp){ width="300" }](https://metadataworks.ai/)
