@@ -12,6 +12,12 @@ Location: [DoubleTree by Hilton Edinburgh City Centre](https://www.google.com/ma
 
 ## Registration
 
+!!! warning "Registration is now full!"
+
+    Due to unprecedented demand we have had to close registrations early, and we already have a very long waiting list!
+    If you can no longer attend please let us know so we can offer your place to someone else.
+
+<!--
 [Register now :lucide-users:](https://www.eventbrite.com/e/tre-communities-conference-16-18-november-2026-tickets-1992766167250){ .md-button .md-button--primary }
 
 ??? info "Funding for public members"
@@ -20,6 +26,7 @@ Location: [DoubleTree by Hilton Edinburgh City Centre](https://www.google.com/ma
     _Please contact your Community Group in the first instance to request funding._
     _Funding will be considered on a case-by-case basis, so please speak to your Community Group Lead/Chair before making any arrangements._
     _You should not need to request this funding through the conference registration process._
+-->
 
 ## Sponsors
 
