@@ -90,11 +90,12 @@ days:
         type: plenary
         sessions:
           - title: Lightning Talks / Roundup of the day
+            room: Orchardfield
       - time: 17:30 - 19:00
         type: social
         sessions:
           - title: RDS Sponsored Drinks & Stand Up Dinner Reception
-            room: "External venue: Edinburgh Futures Institute"
+            room: Sky Suite
 
   - date: 2026-11-17
     title: Tuesday 17 November 2026
@@ -232,10 +233,19 @@ days:
                 affiliation: Research Data Scotland
               - name: Chris Barrett
                 affiliation: Metadataworks
-      - time: 16:45 - 17:15
+      - time: 16:45 - 16:55
+        type: plenary
+        sessions:
+          - title: DARE UK - where next?
+            room: Orchardfield
+            speakers:
+              - name: Emily Jefferson
+                affiliation: DARE UK
+      - time: 16:55 - 17:15
         type: plenary
         sessions:
           - title: Day 2 closing
+            room: Orchardfield
       - time: 18:30 - 20:00
         type: social
         sessions:
@@ -307,6 +317,7 @@ days:
         type: plenary
         sessions:
           - title: Closing Remarks
+            room: Orchardfield
       - time: 12:45 - 13:30
         type: break
         sessions:
