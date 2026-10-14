@@ -90,6 +90,7 @@ days:
         type: plenary
         sessions:
           - title: Lightning Talks / Roundup of the day
+            room: Orchardfield
       - time: 17:30 - 19:00
         type: social
         sessions:
@@ -236,6 +237,7 @@ days:
         type: plenary
         sessions:
           - title: Day 2 closing
+            room: Orchardfield
       - time: 18:30 - 20:00
         type: social
         sessions:
@@ -307,6 +309,7 @@ days:
         type: plenary
         sessions:
           - title: Closing Remarks
+            room: Orchardfield
       - time: 12:45 - 13:30
         type: break
         sessions:
