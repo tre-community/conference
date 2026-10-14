@@ -233,7 +233,15 @@ days:
                 affiliation: Research Data Scotland
               - name: Chris Barrett
                 affiliation: Metadataworks
-      - time: 16:45 - 17:15
+      - time: 16:45 - 16:55
+        type: plenary
+        sessions:
+          - title: DARE UK - where next?
+            room: Orchardfield
+            speakers:
+              - name: Emily Jefferson
+                affiliation: DARE UK
+      - time: 16:55 - 17:15
         type: plenary
         sessions:
           - title: Day 2 closing
