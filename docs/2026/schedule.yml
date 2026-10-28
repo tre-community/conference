@@ -48,7 +48,9 @@ days:
                 - Policy and assurance professionals involved in trusted research infrastructure
             room: Orchardfield
             speakers:
-              - name: Rhys Nadin
+              - name: Amy Curtis
+                affiliation: UK Statistics Authority
+              - name: Lewis Hopcroft
                 affiliation: UK Statistics Authority
       - time: 14:15 - 14:30
         type: break
