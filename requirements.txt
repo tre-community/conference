@@ -1,1 +1,2 @@
 zensical==0.0.54
+reportlab==5.1.0
