@@ -121,9 +121,9 @@ days:
       - time: 09:45 - 10:45
         type: plenary
         sessions:
-          - title: "Plenary: DARE & TREvolution"
+          - title: "Plenary: DARE & TREvolution: The Next-Generation Model of Federation"
             description: |
-              Jointly hosted by DARE and TREvolution, we will explore ideas for the future development of the UK Trusted Research Environment (TRE) ecosystem. Through audience engagement and discussion, participants will examine approaches to federation and relevant personas, sustainability, community needs, emerging challenges, and an opportunity to provide views on how well we are delivering so far thus helping to inform future directions for UK-wide TRE infrastructure and services.
+              Jointly hosted by DARE and TREvolution, we will discuss the established models of federation and explore how we need a more flexible approach to support running federated research projects at scale. We will propose a Next-Generation Federation Model that allows federation to be a configurable capability, instead of a static architecture, to support many research questions, governance or technical requirements. We will show how this model can be implemented using the DARE UK TREvolution suite of products as reference implementations for the key components.
 
               Audience:
 
