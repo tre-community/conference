@@ -11,9 +11,9 @@ days:
           - title: Registration
             room: Ground floor lobby
             description: Open all morning
-          - title: "Satellite Event: Skills Summit - Data Curation"
+          - title: "Satellite Event: Sensitive Data Skills Summit"
             description: ""
-            room: Orchardfield
+            room: Sky Suite
             speakers:
               - name: Hollydawn Murray
                 affiliation: Health Data Research UK
