@@ -4,7 +4,7 @@ days:
     note: The main program starts at 13:00
     tracks:
       - Main Room Orchardfield (Ground floor)
-      - Sky suite (5th floor)
+      - Sky Suite (5th floor)
     slots:
       - time: 09:00 - 12:00
         sessions:
@@ -56,7 +56,7 @@ days:
         type: break
         sessions:
           - title: Refreshments
-            room: Foyer, Rowan and SkySuite
+            room: Foyer, Rowan and Sky Suite
       - time: 14:30 - 16:00
         sessions:
           - title: "Non-Technical Problems: Overcoming the Practical Challenges of Data Federation"
@@ -106,7 +106,7 @@ days:
     title: Tuesday 17 November 2026
     tracks:
       - Main Room Orchardfield (Ground floor)
-      - Sky suite (5th floor)
+      - Sky Suite (5th floor)
     slots:
       - time: 09:00 - 09:30
         type: break
@@ -143,7 +143,7 @@ days:
         type: break
         sessions:
           - title: Refreshments
-            room: Foyer, Rowan and SkySuite
+            room: Foyer, Rowan and Sky Suite
       - time: 11:00 - 12:30
         sessions:
           - title: Shapes and Patterns of Federation
@@ -184,7 +184,7 @@ days:
         type: break
         sessions:
           - title: Lunch
-            room: Foyer, Rowan and SkySuite
+            room: Foyer, Rowan and Sky Suite
       - time: 13:30 - 15:00
         type: plenary
         sessions:
@@ -205,7 +205,7 @@ days:
         type: break
         sessions:
           - title: Refreshments
-            room: Foyer, Rowan and SkySuite
+            room: Foyer, Rowan and Sky Suite
       - time: 15:15 - 16:45
         sessions:
           - title: "Harmonising policies on decision making on what can and cannot be used in a TRE"
@@ -267,7 +267,7 @@ days:
     title: Wednesday 18 November 2026
     tracks:
       - Main Room Orchardfield (Ground floor)
-      - Sky suite (5th floor)
+      - Sky Suite (5th floor)
       - Hawthorn (Basement)
     slots:
       - time: 09:00 - 09:30
@@ -333,7 +333,7 @@ days:
         type: break
         sessions:
           - title: Lunch
-            room: Foyer, Rowan and SkySuite
+            room: Foyer, Rowan and Sky Suite
       - time: 13:30 - 17:00
         type: satellite
         sessions:
