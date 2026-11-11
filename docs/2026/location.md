@@ -4,7 +4,10 @@ icon: lucide/hotel
 
 # Location
 
-The conference will be held at the [DoubleTree by Hilton, Edinburgh City Centre](https://www.google.com/maps/search/?api=1&query=DoubleTree+by+Hilton+Edinburgh+City+Centre%2C+34+Bread+Street+Edinburgh+GB).
+The conference will be held at the [Skybar, DoubleTree by Hilton, Edinburgh City Centre](https://www.google.com/maps/search/?api=1&query=DoubleTree+by+Hilton+Edinburgh+City+Centre%2C+34+Bread+Street+Edinburgh+GB).
+
+Note the entrance to the Skybar venue is a few doors down from the main hotel entrance.
+If in doubt ask at the hotel reception.
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1Gp7Qk9w33PZFM9ZiF-PE51I5yyuBdns&ehbc=2E312F&noprof=1&z=14" width="640" height="480"></iframe>
 
